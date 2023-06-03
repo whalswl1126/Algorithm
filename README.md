@@ -9,3 +9,5 @@
 |2920| [음계](BoJ/2023-04-21)   |브론즈2| [BOJ](https://www.acmicpc.net/problem/2920) |
 |2475| [검증수](BoJ/2023-06-03)   |브론즈5| [BOJ](https://www.acmicpc.net/problem/2475) |
 |2742| [기찍 N](BoJ/2023-06-03)   |브론즈4| [BOJ](https://www.acmicpc.net/problem/2742) |
+|2753| [윤년](BoJ/2023-06-03)   |브론즈5| [BOJ](https://www.acmicpc.net/problem/2753) |
+
