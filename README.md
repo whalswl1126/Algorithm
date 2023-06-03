@@ -7,3 +7,4 @@
 |14888| [연산자 끼워넣기](BoJ/2023-04-14)   |실버1| [BOJ](https://www.acmicpc.net/problem/14888) |
 |17836| [공주님을 구해라!](BoJ/2023-04-17)   |골드5| [BOJ](https://www.acmicpc.net/problem/17836) |
 |2920| [음계](BoJ/2023-04-21)   |브론즈2| [BOJ](https://www.acmicpc.net/problem/2920) |
+|2475| [검증수](BoJ/2023-06-03)   |브론즈5| [BOJ](https://www.acmicpc.net/problem/2475) |
