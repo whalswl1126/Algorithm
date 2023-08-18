@@ -12,4 +12,5 @@
 |2753| [윤년](BoJ/2023-06-03)   |브론즈5| [BOJ](https://www.acmicpc.net/problem/2753) |
 |2884| [알람 시계](BoJ/2023-06-03)   |브론즈3| [BOJ](https://www.acmicpc.net/problem/2884) |
 |10250| [ACM 호텔](BoJ/2023-07-02)   |브론즈3| [BOJ](https://www.acmicpc.net/problem/10250) |
-|1244| [스위치 켜고 끄기](BoJ/2023-08-18)   |실버4| [BOJ](https://www.acmicpc.net/problem/1244) |
+|1244| [스위치 켜고 끄기](BoJ/2023-08-18/Main_1244_스위치켜고끄기)   |실버4| [BOJ](https://www.acmicpc.net/problem/1244) |
+|11659| [구간 합 구하기 4](BoJ/2023-08-18/Main_11659_구간합구하기4)   |실버4| [BOJ](https://www.acmicpc.net/problem/11659) |
