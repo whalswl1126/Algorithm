@@ -16,4 +16,4 @@
 | 11659    | [구간 합 구하기 4](BoJ/2023-08-18/Main_11659_구간합구하기4) | 실버4   | [BOJ](https://www.acmicpc.net/problem/11659) |
 | 11660    | [구간 합 구하기 5](BoJ/2023-08-18/Main_11659_구간합구하기5) | 실버1   | [BOJ](https://www.acmicpc.net/problem/11660) |
 | 2493     | [탑](BoJ/2023-08-29/Main_2493_탑)                           | 골드5   | [BOJ](https://www.acmicpc.net/problem/2493)  |
-| 1158     | [요세푸스 문제](BoJ/2023-08-29/Main_21158_요세푸스문제)     | 실버4   | [BOJ](https://www.acmicpc.net/problem/1158)  |
+| 1158     | [요세푸스 문제](BoJ/2023-08-29/Main_1158_요세푸스문제)     | 실버4   | [BOJ](https://www.acmicpc.net/problem/1158)  |
