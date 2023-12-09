@@ -79,6 +79,7 @@
 ### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
+|10163. 색종이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10163.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/README.md)|
 |10699. 오늘 날짜|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10699.%E2%80%85%EC%98%A4%EB%8A%98%E2%80%85%EB%82%A0%EC%A7%9C/README.md)|
 |11382. 꼬마 정민|[링크](./%EB%B0%B1%EC%A4%80/Bronze/11382.%E2%80%85%EA%BC%AC%EB%A7%88%E2%80%85%EC%A0%95%EB%AF%BC/%EA%BC%AC%EB%A7%88%E2%80%85%EC%A0%95%EB%AF%BC.java)|
 |2309. 일곱 난쟁이|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2309.%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4.java)|
